@@ -1,0 +1,3 @@
+P:\CMake\bin\cmake.exe -E rm -f CMakeFiles\Lesson_36_QT.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\Lesson_36_QT.dir/objects.a @CMakeFiles\Lesson_36_QT.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Lesson_36_QT.dir/objects.a -Wl,--no-whole-archive -o Lesson_36_QT.exe -Wl,--out-implib,libLesson_36_QT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lesson_36_QT.dir\linkLibs.rsp

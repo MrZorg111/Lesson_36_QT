@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/yodji/Desktop/Lesson_36_QT/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/Lesson_36_QT.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Lesson_36_QT.dir\\main.cpp.obj -c C:\\Users\\yodji\\Desktop\\Lesson_36_QT\\src\\main.cpp",
+  "file": "C:/Users/yodji/Desktop/Lesson_36_QT/src/main.cpp",
+  "output": "src/CMakeFiles/Lesson_36_QT.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,5 @@
+C:/Users/yodji/Desktop/Lesson_36_QT/build/CMakeFiles/edit_cache.dir
+C:/Users/yodji/Desktop/Lesson_36_QT/build/CMakeFiles/rebuild_cache.dir
+C:/Users/yodji/Desktop/Lesson_36_QT/build/src/CMakeFiles/Lesson_36_QT.dir
+C:/Users/yodji/Desktop/Lesson_36_QT/build/src/CMakeFiles/edit_cache.dir
+C:/Users/yodji/Desktop/Lesson_36_QT/build/src/CMakeFiles/rebuild_cache.dir

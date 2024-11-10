@@ -1,0 +1,1 @@
+-IC:/Users/yodji/Desktop/Lesson_36_QT/include -isystem P:/Qt/5.15.2/mingw81_64/include -isystem P:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem P:/Qt/5.15.2/mingw81_64/include/QtGui -isystem P:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem P:/Qt/5.15.2/mingw81_64/include/QtCore -isystem "P:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"
